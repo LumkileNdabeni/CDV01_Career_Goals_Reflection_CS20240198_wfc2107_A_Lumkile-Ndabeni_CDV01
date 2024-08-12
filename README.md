@@ -60,7 +60,7 @@ Part 4: Action Plan
 •	Resources: Career services, online job boards, LinkedIn.
 •	Support: Seek guidance from mentors or career advisors.
 
-2. Steps to Achieve Short-term Goals:
+2. Steps to Achieve Long-term Goals:
 2.1 Preparation for Long-term Goals:
 
 Secure a Lead Developer Position:
