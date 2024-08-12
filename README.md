@@ -63,10 +63,10 @@ Part 4: Action Plan
 2. Steps to Achieve Long-term Goals:
 2.1 Preparation for Long-term Goals:
 
-Secure a Lead Developer Position:
+1. Secure a Lead Developer Position:
 Preparation: Gain experience through smaller leadership roles, work on high-impact projects, and seek mentorship.
 
-Skills/Qualifications Needed: Strong leadership skills, experience with large projects, and advanced technical expertise.
+2. Skills/Qualifications Needed: Strong leadership skills, experience with large projects, and advanced technical expertise.
 
 Part 5: Reflection on Challenges and Opportunities
 Anticipated Challenges:
